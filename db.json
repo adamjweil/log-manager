@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Dummy log",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-11-12T21:06:29.905Z"
+    },
+    {
+      "message": "Computer mouse not working",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-11-12T22:20:22.730Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Circut Breaker routine check",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-11-13T00:03:59.210Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "JImmy",
+      "lastName": "Test",
+      "id": 5
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Smith",
+      "id": 6
+    }
+  ]
+}
